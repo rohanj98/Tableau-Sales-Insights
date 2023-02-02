@@ -8,6 +8,6 @@ I have created a dashboard using Tableau which will give below information:
 * Top 5 customers by revenue and sales quantity
 * Top 5 products by revenue
 * Profit Margin per city
-* Overall sales profit margin (quaterly)
+* Overall sales profit margin (quaRterly)
 
 A Powerpoint file exported from tableau of this Dashboards can be found [here](https://github.com/rohanj98/Tableau-Sales-Insights/blob/main/Sales_insight.pptx)
